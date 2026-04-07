@@ -52,9 +52,9 @@ An AI-powered agent that dynamically allocates daily ad budget across Search, So
 ## Project Structure
 
 ```
-├── Copy_of_Ad_Optimization_Agent.ipynb   # Main notebook
+├── Group_5_Ad_Optimization_Agent.ipynb   # Main notebook
 ├── README.md                              # This file
-├── Design_Doc.docx                        # 1-page design document
+├── Group 5 Ad Optimization Agent Design Doc.pdf                        # 1-page design document
 └── agent_results.png                      # Output charts
 ```
 
