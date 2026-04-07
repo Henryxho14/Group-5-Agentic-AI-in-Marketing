@@ -5,7 +5,7 @@ An AI-powered agent that dynamically allocates daily ad budget across Search, So
 
 ## How to Run
 
-1. **Open in Google Colab**: Upload `Copy_of_Ad_Optimization_Agent.ipynb` to [Google Colab](https://colab.research.google.com/).
+1. **Open in Google Colab**: Upload `Group_5_Ad_Optimization_Agent.ipynb` to [Google Colab](https://colab.research.google.com/).
 2. **Set API Key**: Go to Colab → Secrets (🔑 icon in sidebar) → Add `GEMINI_API_KEY` with your Google Gemini API key.
 3. **Run All Cells**: Click `Runtime → Run all`. The notebook will:
    - Install dependencies (`langchain-google-genai`)
